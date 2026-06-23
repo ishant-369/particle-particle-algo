@@ -1,1 +1,1 @@
-this is the algorithms for learning about the PIC(particle in cell) project
+i am doing practice for the algorithms required for the pic(particle in cell) project
